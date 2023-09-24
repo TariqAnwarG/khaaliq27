@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tariq Anwar
 - 👀 I’m AWS DEVOPS Engineer
-- 🌱 I’m currently learning ... Full Stack Web Development
 - 📫 How to reach me ...khaaliq27@gmail.com
 
 <!---
